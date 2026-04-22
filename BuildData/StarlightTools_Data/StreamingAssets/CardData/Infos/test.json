@@ -1,0 +1,19 @@
+{
+    "cards": [
+        {
+            "serial": "SLS01-001 RRR",
+            "cardName": "레스티아 엘 바이스릴리",
+            "cardName_back": "왕국의 작은 백합, 레스티아",
+            "type": 1,
+            "cardColor": 0,
+            "cardImagePath": "CardData\\CardFaces\\Default\\starlight_SLS01\\SLS01-001.png",
+            "cardImagePath_back": "CardData\\CardFaces\\Default\\starlight_SLS01\\SLS01-001-back.png",
+            "ability": "<color=#ffa500ff>액션</color> <b>3</b> : 자신의 덱에서 기본 마력석 카드1장을 찾아서 공개하고 손으로 가져온다. 그 후 덱을 섞는다.\r\n<color=#ffff00ff>자동</color> : 자신의 종료 페이즈 시작할 때, 자신의 자원이 5장 이상 있다면, 이 카드를 변신할 수 있다.",
+            "ability_back": "<color=#ffa500ff>액션</color> <color=#ffff00ff>●</color> <b>2</b> : 상대의 무덤에 카드 1장을 목표로 정한다. 그 카드를 제거한다. 자신의 스타는 생명점 3을 얻는다.",
+            "cost": 0,
+            "starLife": 20,
+            "attack": 0,
+            "defense": 0
+        }
+    ]
+}
