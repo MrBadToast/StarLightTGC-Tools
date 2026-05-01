@@ -77,21 +77,6 @@
             "defense": 0
         },
         {
-            "serial": "SLS01-014",
-            "cardName": "마력석 광산",
-            "cardName_back": "",
-            "type": 5,
-            "cardColor": 5,
-            "cardImagePath": "CardData\\CardFaces\\Default\\starlight_SLS01\\SLS01-014.png",
-            "cardImagePath_back": "",
-            "ability": "<color=#ffa500ff>액션</color> 이 카드를 희생한다 : 자신의 덱에서 기본 마력석 카드 1장을 찾아서 공개하고 자원에 액트 상태로 놓는다. 그 후 덱을 섞는다",
-            "ability_back": "",
-            "cost": 0,
-            "starLife": 0,
-            "attack": 0,
-            "defense": 0
-        },
-        {
             "serial": "SLS01-004",
             "cardName": "마법 기사단 방패병",
             "cardName_back": "",
@@ -298,21 +283,6 @@
             "ability_back": "<color=#ffa500ff>액션</color><b><color=#0000ffff> ●</color>2</b> : 카드 1장을 뽑는다.",
             "cost": 0,
             "starLife": 20,
-            "attack": 0,
-            "defense": 0
-        },
-        {
-            "serial": "SLS02-014",
-            "cardName": "마력석 광산",
-            "cardName_back": "",
-            "type": 5,
-            "cardColor": 5,
-            "cardImagePath": "CardData\\CardFaces\\Default\\starlight_SLS02\\SLS02-014.png",
-            "cardImagePath_back": "",
-            "ability": "<color=#ffa500ff>액션</color> 이 카드를 희생한다 : 자신의 덱에서 기본 마력석 카드 1장을 찾아서 공개하고 자원에 액트 상태로 놓는다. 그 후 덱을 섞는다",
-            "ability_back": "",
-            "cost": 0,
-            "starLife": 0,
             "attack": 0,
             "defense": 0
         },
@@ -527,21 +497,6 @@
             "defense": 0
         },
         {
-            "serial": "SLS03-014",
-            "cardName": "마력석 광산",
-            "cardName_back": "",
-            "type": 5,
-            "cardColor": 5,
-            "cardImagePath": "CardData\\CardFaces\\Default\\starlight_SLS03\\SLS03-014.png",
-            "cardImagePath_back": "",
-            "ability": "<color=#ffa500ff>액션</color> 이 카드를 희생한다 : 자신의 덱에서 기본 마력석 카드 1장을 찾아서 공개하고 자원에 액트 상태로 놓는다. 그 후 덱을 섞는다",
-            "ability_back": "",
-            "cost": 0,
-            "starLife": 0,
-            "attack": 0,
-            "defense": 0
-        },
-        {
             "serial": "SLS03-004",
             "cardName": "긴발톱 고양이",
             "cardName_back": "",
@@ -748,21 +703,6 @@
             "ability_back": "<color=#ffa500ff>액션</color><b><color=#00ff00ff> ●</color>2</b> : 스타를 목표로 정한다. 그 카드에게 피해를 2 준다.",
             "cost": 0,
             "starLife": 20,
-            "attack": 0,
-            "defense": 0
-        },
-        {
-            "serial": "SLS04-014",
-            "cardName": "마력석 광산",
-            "cardName_back": "",
-            "type": 5,
-            "cardColor": 5,
-            "cardImagePath": "CardData\\CardFaces\\Default\\starlight_SLS04\\SLS04-014.png",
-            "cardImagePath_back": "",
-            "ability": "<color=#ffa500ff>액션</color> 이 카드를 희생한다 : 자신의 덱에서 기본 마력석 카드 1장을 찾아서 공개하고 자원에 액트 상태로 놓는다. 그 후 덱을 섞는다",
-            "ability_back": "",
-            "cost": 0,
-            "starLife": 0,
             "attack": 0,
             "defense": 0
         },
